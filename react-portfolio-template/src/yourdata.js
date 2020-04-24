@@ -37,9 +37,9 @@ export default
             },
             { 
                 id: 3,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Three',
-                service: 'Web App',
-                imageSrc: "https://images.unsplash.com/photo-1511500118080-275313ec90a1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                title: 'Contact List',
+                service: "A Contact Management Database with API to store potential client contact information. Tailored for implementation and adaptability for the use of companies, to keep client information accessible, and edited as needed. Deployed API for implementing CRUD requests for new daily tasks for a user effectively using Fetch, JSON, AJAX requests.",
+                imageSrc: "https://freerangestock.com/sample/47820/sending-a-newsletter-to-contact-list--e-mail-marketing-concept.jpg",
                 url: 'https://github.com/kevin-soria'
             },
             {
