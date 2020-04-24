@@ -30,9 +30,9 @@ export default
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Two',
-                service: 'Website Development',
-                imageSrc: "https://images.unsplash.com/photo-1554866585-cd94860890b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                title: 'Queue Management',
+                service: 'With the use of Twilio API, a queue notification system built for notifiy customers with ability of in-demand inquiries of wait times, and line positions via text SMS/and WhatsAPP. Applied Agile, Scrum, effectively using SQL queries, and Migrations. ',
+                imageSrc: "https://betanews.com/wp-content/uploads/2019/12/text-messages.jpg",
                 url: 'https://github.com/kevin-soria'
             },
             { 
