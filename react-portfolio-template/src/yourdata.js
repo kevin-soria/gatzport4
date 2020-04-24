@@ -1,3 +1,6 @@
+import React from "react";
+import rigoImage from "../src/src/img/rigo-baby.jpg";
+
 export default
     {
         //(Please Do Not Remove The comma(,) after every variable)
@@ -46,7 +49,7 @@ export default
                 id: 4,//DO NOT CHANGE THIS (Please)😅
                 title: 'Project Four',
                 service: 'Branding',
-                imageSrc: "https://images.unsplash.com/photo-1558452919-08ae4aea8e29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+                imageSrc: rigoImage,
                 url: 'https://github.com/kevin-soria'
            }
 
