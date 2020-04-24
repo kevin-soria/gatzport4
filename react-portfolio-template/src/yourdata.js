@@ -1,5 +1,6 @@
 import React from "react";
 import rigoImage from "../src/src/img/rigo-baby.jpg";
+import logo from "../src/src/img/onlinelogomaker-040920-2333-0248.png"
 
 export default
     {
@@ -24,12 +25,12 @@ export default
        projects:[
            {
             id: 1,//DO NOT CHANGE THIS (Please)😅
-            title:'Project One', //Project Title - Add Your Project Title Here
-             service:'UI/UX Design', // Add Your Service Type Here
+            title:'PetFinders', //Project Title - Add Your Project Title Here
+             service:'A social sharing in connecting pet owners with community in connecting back with their lost pets with the use of sending neighborhood alerts of lost pest advisories. Scaled to implement current last-sightings alerts or current location updates of lost animals. ', // Add Your Service Type Here
             //Project Image - Add Your Project Image Here
-             imageSrc:"https://images.unsplash.com/photo-1558104631-0fa41a8f6c20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+             imageSrc: logo,
              //Project URL - Add Your Project Url Here
-             url:'https://github.com/kevin-soria'
+             url:'https://petfinders-blue.now.sh/'
             },
             {
                 id: 2,//DO NOT CHANGE THIS (Please)😅
