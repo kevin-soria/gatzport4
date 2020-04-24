@@ -1,5 +1,3 @@
-import React from "react";
-import rigoImage from "../src/src/img/rigo-baby.jpg";
 import logo from "../src/src/img/onlinelogomaker-040920-2333-0248.png"
 
 export default
@@ -48,9 +46,9 @@ export default
             },
             {
                 id: 4,//DO NOT CHANGE THIS (Please)😅
-                title: 'Project Four',
-                service: 'Branding',
-                imageSrc: rigoImage,
+                title: 'Star Wars Blog',
+                service: 'An Interactive, Star Wars Blog Landing Page, with direct links to informational links on the films, wiki articles, and the official Star Wars website.',
+                imageSrc: "https://pbs.twimg.com/profile_images/619004925700370432/GXGj_SXW.png",
                 url: 'https://github.com/kevin-soria'
            }
 
