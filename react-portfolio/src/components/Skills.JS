@@ -26,3 +26,4 @@
 </ul>
 // <------------------------->
 // ###########here we are going to add all skills###########################
+// ############### adding pictures and icons may add bootstrap################
