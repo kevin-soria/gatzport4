@@ -26,15 +26,14 @@ This repo contains an easy-to-customize personal portfolio template that was cre
 3.Change the values in src/yourdata.js to suit your use-case.
 4.Run npm start or yarn start to start the local dev server port 3000.(http://localhost:3000).
 
-# Full Preview - 
 
-
-License
-Completely free (MIT)!
 
 Follow Me - 
-[Portfolio](http://chetanverma.com/)
-[Instagram](https://www.instagram.com/cv.uidesign
+[Portfolio]()
+[Instagram]()
+[LinkedIn]()
+[Facebook]()
+[GitHub]()
 
 
 
