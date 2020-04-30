@@ -19,11 +19,14 @@ This repo also serves as  template that was created with React. It is lightweigh
 * JS
 * HTML/CSS
 * MySql
+* Bootstrap
+* Flask 
+
 ## Projects
-*
-*
-*
-*
+*PetFinders
+*QueueMGT
+*Contact List
+*Starwars Blog
 
 ## How to use
 1.Clone/Download the repo.
