@@ -1,5 +1,5 @@
 # React Portfolio 
-## Portfolio showcase from  Kevin, a Software developers/Designers built with React. Personal website detailing personal brand and experience,interests, and creative outlet for front-end development.Connected to API for subscribing to blog posts/articles ontopics ranging from coding/tech, music, current events,environmentalism, mindfulness and self-help.
+## Portfolio showcase from  Kevin, a Software developers/Designers built with React. Personal website detailing personal brand and experience,interests, and creative outlet for front-end development.Connected to API for subscribing to blog posts/articles on topics ranging from coding/tech, music, current events,environmentalism, mindfulness and self-help.
 
 Demo - https://react-portfolio-template.netlify.com/
 
@@ -11,7 +11,7 @@ Demo - https://react-portfolio-template.netlify.com/
 
 
 
-This repo contains an easy-to-customize personal portfolio template that was created with React. It is lightweight and fully responsive, as well as comes with the Awesome Animations.
+This repo also serves as  template that was created with React. It is lightweight and fully responsive, as well as comes with the Awesome Animations.
 
 ## Skills
 * REACT
@@ -19,6 +19,11 @@ This repo contains an easy-to-customize personal portfolio template that was cre
 * JS
 * HTML/CSS
 * MySql
+## Projects
+*
+*
+*
+*
 
 ## How to use
 1.Clone/Download the repo.
