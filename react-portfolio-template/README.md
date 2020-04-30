@@ -1,5 +1,4 @@
-# React Portfolio Template
-
+# React Portfolio 
 ## Minimal Portfolio template for Developers/Designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
 Demo - https://react-portfolio-template.netlify.com/
