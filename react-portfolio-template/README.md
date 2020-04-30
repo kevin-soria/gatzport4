@@ -1,5 +1,5 @@
 # React Portfolio 
-## Portfolio from  Kevin, a Software developers/Designers built with React. Use it to showcase your work, testimonials and other information to clients.
+## Portfolio from  Kevin, a Software developers/Designers built with React. Personal website detailing personal brand and experience,interests, and creative outlet for front-end development.Connected to API for subscribing to blog posts/articles ontopics ranging from coding/tech, music, current events,environmentalism, mindfulness and self-help.
 
 Demo - https://react-portfolio-template.netlify.com/
 
