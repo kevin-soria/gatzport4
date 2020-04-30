@@ -13,7 +13,7 @@ Demo - https://react-portfolio-template.netlify.com/
 
 This repo contains an easy-to-customize personal portfolio template that was created with React. It is lightweight and fully responsive, as well as comes with the Awesome Animations.
 
-## Features 
+## Skills
 * Production Ready
 * Fully Responsive
 * Easy To Customize and Personalise
@@ -27,7 +27,6 @@ This repo contains an easy-to-customize personal portfolio template that was cre
 4.Run npm start or yarn start to start the local dev server port 3000.(http://localhost:3000).
 
 # Full Preview - 
-![portfolio](https://user-images.githubusercontent.com/16558205/59826731-7d494300-9354-11e9-92dd-46f7057b6ead.png)
 
 
 License
@@ -35,9 +34,8 @@ Completely free (MIT)!
 
 Follow Me - 
 [Portfolio](http://chetanverma.com/)
-[Behance](https://www.behance.net/chetanverma)
-[Dribbble](https://dribbble.com/chetanverma)
-[Instagram](https://www.instagram.com/cv.uidesign/)
+[Instagram](https://www.instagram.com/cv.uidesign
+
 
 
 
