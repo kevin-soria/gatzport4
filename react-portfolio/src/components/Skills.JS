@@ -21,13 +21,13 @@
 <li>Rest/li>
 
 <li>Django</li>
-<li>SQL</li>
-<li>SQL</li>
-<li>SQL</li>
+
 <li>Flask</li>
 {/* // <----------------------------> */}
 
 <li>MySQL</li>
+
+<li>SqlAlchemy</li>
 {/* // <----------------------------> */}
 </ul>
 // <------------------------->
