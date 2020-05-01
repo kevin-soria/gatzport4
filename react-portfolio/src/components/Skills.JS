@@ -21,7 +21,9 @@
 <li>Rest/li>
 
 <li>Django</li>
-
+<li>SQL</li>
+<li>SQL</li>
+<li>SQL</li>
 <li>Flask</li>
 {/* // <----------------------------> */}
 
