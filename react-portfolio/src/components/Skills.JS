@@ -3,7 +3,7 @@
 
 {/* <// <-----------------------> */}
 <li>JS</li>
-{/* // <----------------------------> */}
+{/* // <--------https://cdn.clipart.email/e495e39faa9fa3d038bb7bdc166562fa_javascript-comment-html-logo-international-conference-on-missions-_728-1023.jpeg--------------------> */}
 
 <li>React</li>
 {/* // <----------------------------> */}
