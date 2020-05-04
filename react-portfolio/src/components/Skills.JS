@@ -6,7 +6,7 @@
 {/* // <--------https://cdn.clipart.email/e495e39faa9fa3d038bb7bdc166562fa_javascript-comment-html-logo-international-conference-on-missions-_728-1023.jpeg--------------------> */}
 
 <li>React</li>
-{/* // <----------------------------> */}
+{/* // <----------https://img.pngio.com/10-years-of-experience-react-native-logo-svg-hd-png-download-react-png-840_817.png------------------> */}
 <li>Html</li>
 
 {/* // <----------------------------> */}
