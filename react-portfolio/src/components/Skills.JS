@@ -26,7 +26,7 @@
 {/* <// <--------------https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg---------> */}
 
 <li>MySQL</li>
-{/* <// <-----------------------> */}
+{/* <// <---------https://banner2.cleanpng.com/20180803/bkf/kisspng-logo-mysql-database-phpmyadmin-mysql-digital-agency-maidenhead-web-agency-uk-5b6475c3513438.3209368415333104033326.jpg--------------> */}
 <li>SqlAlchemy</li>
 {/* // <----------------------------> */}
 </ul>
