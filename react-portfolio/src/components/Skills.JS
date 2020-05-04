@@ -30,7 +30,7 @@
 <li>SqlAlchemy</li>
 {/* // <----------------https://marshmallow-sqlalchemy.readthedocs.io/en/latest/_static/marshmallow-sqlalchemy-logo.png------------> */}
 <li>Agile/Scrums</li>
-{/* <// <-----------------------> */}
+{/* <// <------------https://img.favpng.com/19/19/5/scrum-agile-software-development-project-sprint-requirement-png-favpng-PY3ygK6e89sBERhbGGCe3u4N2.jpg-----------> */}
 
 
 </ul>
