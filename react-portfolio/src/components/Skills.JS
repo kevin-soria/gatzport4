@@ -28,7 +28,9 @@
 <li>MySQL</li>
 {/* <// <---------https://banner2.cleanpng.com/20180803/bkf/kisspng-logo-mysql-database-phpmyadmin-mysql-digital-agency-maidenhead-web-agency-uk-5b6475c3513438.3209368415333104033326.jpg--------------> */}
 <li>SqlAlchemy</li>
-{/* // <----------------------------> */}
+{/* // <----------------https://marshmallow-sqlalchemy.readthedocs.io/en/latest/_static/marshmallow-sqlalchemy-logo.png------------> */}
+
+
 </ul>
 // <------------------------->
 // ###########here we are going to add all skills###########################
