@@ -23,7 +23,7 @@
 <li>Django</li>
 {/* // <----------https://img.favpng.com/20/6/19/django-python-computer-icons-logo-portable-network-graphics-png-favpng-fmTDmunynSK52axsEWGWJeDad.jpg------------------> */}
 <li>Flask</li>
-{/* <// <-----------------------> */}
+{/* <// <--------------https://banner2.cleanpng.com/20180809/hvf/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa33b3b57.9170119715338072672426.jpg---------> */}
 
 <li>MySQL</li>
 {/* <// <-----------------------> */}
