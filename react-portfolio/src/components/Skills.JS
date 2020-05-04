@@ -21,12 +21,12 @@
 <li>Rest/li>
 {/* <// <-------------https://www.ardoq.com/hubfs/TP%20Theme/Website/Integrations/restApi.png----------> */}
 <li>Django</li>
-
+{/* // <----------https://img.favpng.com/20/6/19/django-python-computer-icons-logo-portable-network-graphics-png-favpng-fmTDmunynSK52axsEWGWJeDad.jpg------------------> */}
 <li>Flask</li>
-{/* // <----------------------------> */}
+{/* <// <-----------------------> */}
 
 <li>MySQL</li>
-
+{/* <// <-----------------------> */}
 <li>SqlAlchemy</li>
 {/* // <----------------------------> */}
 </ul>
