@@ -16,7 +16,7 @@
 {/* // <---------https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png-------------------> */}
 
 <li>Python</li>
-{/* // <----------------------------> */}
+{/* // <-------------https://lh3.googleusercontent.com/proxy/Neh3_17ZMQZ_6ZUb-znYjRoUXRIsPNy-YEOdAamdZcpcMA6-nNW2OnhO3tsANPaM3xKR8QR9c_sWTbIFI4xCqicbYuKUbuUHjBR0Owc2mYTsYtufti3TIwXwf7MYycdNmyI---------------> */}
 
 <li>Rest/li>
 
