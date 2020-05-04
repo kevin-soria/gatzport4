@@ -19,7 +19,7 @@
 {/* // <-------------https://lh3.googleusercontent.com/proxy/Neh3_17ZMQZ_6ZUb-znYjRoUXRIsPNy-YEOdAamdZcpcMA6-nNW2OnhO3tsANPaM3xKR8QR9c_sWTbIFI4xCqicbYuKUbuUHjBR0Owc2mYTsYtufti3TIwXwf7MYycdNmyI---------------> */}
 
 <li>Rest/li>
-
+{/* <// <-------------https://www.ardoq.com/hubfs/TP%20Theme/Website/Integrations/restApi.png----------> */}
 <li>Django</li>
 
 <li>Flask</li>
