@@ -12,7 +12,7 @@
 // {/* // <---------------https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png-------------> */}
  
 // <li>CSS</li>
-// kjdsf
+
 // {/* // <---------https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png-------------------> */}
 
 // <li>Python</li>
