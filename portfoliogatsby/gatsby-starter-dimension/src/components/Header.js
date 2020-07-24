@@ -4,17 +4,19 @@ import React from 'react'
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <span className="icon fa-diamond"></span>
+      <span className="icon fa-code"></span>
     </div>
     <div className="content">
       <div className="inner">
         <h1>Kevin Soria</h1>
         <p>
-          A Portfolio Website for showcasing me  {' '}
+          A Portfolio Website for showcasing as a {' '}
           <a href="https://github.com/kevin-soria">Software Engineer</a>
           <br />
-          available for hire under the{' '}
-          <a href="https://www.linkedin.com/in/kevin-soria/">Creative Commons</a> license.
+          {' '}available for hire and available to{' '}
+          <a href="https://www.linkedin.com/in/kevin-soria/">
+            Contact
+          </a>
         </p>
       </div>
     </div>
