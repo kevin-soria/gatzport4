@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kevin Soria - Software Engineer',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    title: 'Kevin Soria - Full Stack Software Engineer',
+    author: 'Kevin Soria',
+    description: 'A Software Engineering Portfolio',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

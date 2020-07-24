@@ -33,11 +33,14 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+          You can call me Software Engineer. You can call me Software developer. Or you can call me Web developer. A bunch  of different names to say that I simpy LOVE to Code. to continue a career that challenges me, where there is room for growth, and most importantly, where I can contribute. Having experience within the environmental, public health, retail, education, and real estate sectors I've always had a passion for helping people. Being a full-stack web developer has not only fueled my passion for tech but also allowed me to acknowledge the possibilities of what software development can bring.
+My previous work experience taught me a great deal about the type of concerns and customers face daily, and I grew to love providing solutions to those issues. Having the opportunity of being a part of a well-respected company such as Lockheed Martin would fit well with my professional and personal objectives.
+Throughout building projects and web applications with my skills in JavaScript, Python, React, Flask, HTML, CSS, I was able to find a career where it not only felt like home but where I can contribute. Being able to integrate RESTful APIs, JSON, AJAX, MySQL has brought me a world of opportunities to manipulate and store databases for projects to help people and companies reach their goals and dreams.
+Adopting Agile and Scrum methodologies into developing web apps has given me the ability to engineer projects that are not only engineering in an efficient, timely manner but also making web apps that are always growing and adapting to the world around us. Examining all of the phases of the Software Development Life Cycle (SDLC) has opened my eyes to where I can not only learn from the wonderful yet advanced technologies around me but also, has to lead me to realize where I can contribute and thrive.
+Software and the tech industry provide me a field where I can implement, and continue to acquire, the skills as part of the effort to show that worldwide web is more than just the "WWW". The internet has, is, and will continue to have an influential effect on how everyone around the world. Therefore, I am proud to be a part of that. 
+            <br/>
+            <br/>
+            <h3>By the way, check out my <a href="#work">awesome work</a>.</h3>
           </p>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
