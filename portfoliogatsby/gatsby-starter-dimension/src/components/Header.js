@@ -1,5 +1,6 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import Grid from '../components/Skillgrid'
 
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
@@ -41,13 +42,13 @@ const Header = props => (
           </button>
         </li>
         <li>
-          <button
+          {/* <button
             onClick={() => {
-              props.onOpenArticle('skills')
+              
             }}
           >
             Work
-          </button>
+          </button> */}
         </li>
         <li>
           <button
