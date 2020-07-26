@@ -22,13 +22,13 @@ class Main extends React.Component {
         style={this.props.timeout ? { display: 'flex' } : { display: 'none' }}
       >
         <article
-          id="intro"
-          className={`${this.props.article === 'intro' ? 'active' : ''} ${
+          id="About Me"
+          className={`${this.props.article === 'About Me' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Intro</h2>
+          <h2 className="major">About Me</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
@@ -88,13 +88,13 @@ Software and the tech industry provide me a field where I can implement, and con
         </article>
 
         <article
-          id="about"
-          className={`${this.props.article === 'about' ? 'active' : ''} ${
+          id="Experience"
+          className={`${this.props.article === 'Experience' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">About</h2>
+          <h2 className="major">Experience</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
