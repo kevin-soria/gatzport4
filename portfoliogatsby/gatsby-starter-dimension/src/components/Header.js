@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 import Grid from '../components/Skillgrid'
-
+import pic01 from '../images/pic01.jpg'
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
@@ -42,13 +42,8 @@ const Header = props => (
           </button>
         </li>
         <li>
-          {/* <button
-            onClick={() => {
-              
-            }}
-          >
+          <Grid src={'../images/skills/agile.png'}/>
             Work
-          </button> */}
         </li>
         <li>
           <button
