@@ -42,10 +42,6 @@ const Header = props => (
           </button>
         </li>
         <li>
-          <Grid src={'../images/skills/agile.png'}/>
-            Work
-        </li>
-        <li>
           <button
             onClick={() => {
               props.onOpenArticle('Experience')
