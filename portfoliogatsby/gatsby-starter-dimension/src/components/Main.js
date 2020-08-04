@@ -1,8 +1,10 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
+import pic01 from '../images/pic01.jpg'
+// import { useStaticQuery, graphql } from "gatsby"
+// import Img from "gatsby-image"
+import Grid from '../components/Skillgrid'
 
 class Main extends React.Component {
   render() {
@@ -65,15 +67,12 @@ Software and the tech industry provide me a field where I can implement, and con
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Work</h2>
+          {/* <h2 className="major">Work</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            The following skills i used for project are:
           </p>
           <p>
             Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
@@ -83,7 +82,8 @@ Software and the tech industry provide me a field where I can implement, and con
             Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
             libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
             tempus.
-          </p>
+          </p> */}
+          <Grid/>
           {close}
         </article>
 
