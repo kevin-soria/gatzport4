@@ -1,13 +1,13 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import { Link } from "gatsby"
+
 
 import pic03 from '../images/pic03.jpg'
 import pic01 from '../images/pic01.jpg'
 // import { useStaticQuery, graphql } from "gatsby"
 // import Img from "gatsby-image"
 import Grid from '../components/Skillgrid'
-import { Router } from "@reach/router"
+
 
 class Main extends React.Component {
   render() {
