@@ -71,7 +71,7 @@ Software and the tech industry provide me a field where I can implement, and con
           }`}
           style={{ display: 'none' }}
         >
-          <Grid path="/grid" />
+          <Grid/>
           {close}
         </article>
 
