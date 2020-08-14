@@ -1,7 +1,7 @@
 import React from 'react'
 import anime from 'animejs/lib/anime.es.js';
 // import PropTypes from 'prop-types'
-
+import { Link } from "gatsby"
 import bgg from '../images/bg.jpg'
 const Grid = () => {
   anime({
