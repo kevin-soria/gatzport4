@@ -1,10 +1,13 @@
 import PropTypes from 'prop-types'
 import React from 'react'
+import { Link } from "gatsby"
+
 import pic03 from '../images/pic03.jpg'
 import pic01 from '../images/pic01.jpg'
 // import { useStaticQuery, graphql } from "gatsby"
 // import Img from "gatsby-image"
 import Grid from '../components/Skillgrid'
+import { Router } from "@reach/router"
 
 class Main extends React.Component {
   render() {
@@ -26,10 +29,11 @@ class Main extends React.Component {
         <article
           id="About Me"
           className={`${this.props.article === 'About Me' ? 'active' : ''} ${
+          
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
-        >
+          >
           <h2 className="major">About Me</h2>
           <span className="image main">
             <img src={pic01} alt="" />
@@ -61,29 +65,13 @@ Software and the tech industry provide me a field where I can implement, and con
         </article>
 
         <article
-          id="work"
+          id="#work"
           className={`${this.props.article === 'work' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
         >
-          {/* <h2 className="major">Work</h2>
-          <span className="image main">
-            <img src={pic02} alt="" />
-          </span>
-          <p>
-            The following skills i used for project are:
-          </p>
-          <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
-          </p> */}
-          <Grid/>
+          <Grid path="/grid" />
           {close}
         </article>
 
@@ -93,13 +81,13 @@ Software and the tech industry provide me a field where I can implement, and con
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
-        >
+          >
           <h2 className="major">Experience</h2>
           <span className="image main">
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
+            I am experience Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
             eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
             erat volutpat. Praesent urna nisi, fringila lorem et vehicula
             lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
@@ -116,7 +104,7 @@ Software and the tech industry provide me a field where I can implement, and con
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
-        >
+          >
           <h2 className="major">Contact</h2>
           <form method="post" action="#">
             <div className="field half first">

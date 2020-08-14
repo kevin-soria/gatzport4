@@ -1,8 +1,16 @@
 import React from 'react'
+import anime from 'animejs/lib/anime.es.js';
 // import PropTypes from 'prop-types'
+import { Link } from "gatsby"
 import bgg from '../images/bg.jpg'
 const Grid = () => {
-     
+  anime({
+    targets: 'p',
+    translateX: 50,
+    rotate: '1turn',
+    // backgroundColor: '#FFF',
+    duration: 1500
+  });
       // let close = (
       //       <div
       //         className="close"
@@ -14,6 +22,7 @@ const Grid = () => {
 return(
 
 <>
+
 <h2 className="major">Work</h2>
           <span className="image main">
             <img src={bgg} alt="" />
