@@ -33,7 +33,7 @@ const Header = props => (
           </button>
         </li>
         <li>
-        {/* <Link to="/Skillpage"> */}
+        <Link to="/Skillpage">
           <button
             onClick={() => {
               props.onOpenArticle('work')
@@ -41,7 +41,7 @@ const Header = props => (
           >
             Work
           </button>
-          {/* </Link> */}
+          </Link>
         </li>
         {/* <li>
           <Grid src={'../images/skills/agile.png'}/>
