@@ -4,14 +4,16 @@ import Header from '../components/Header'
 import Main from '../components/Main'
 import Footer from '../components/Footer'
 
-class IndexPage extends React.Component {
+
+
+class IndexPage2 extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      isArticleVisible: false,
-      timeout: false,
-      articleTimeout: false,
-      article: '',
+      isArticleVisible: true,
+      timeout: true,
+      articleTimeout: true,
+      article: 'work',
       loading: 'is-loading'
     }
     this.handleOpenArticle = this.handleOpenArticle.bind(this)
@@ -113,9 +115,7 @@ class IndexPage extends React.Component {
         </div>
       </Layout>
     )
-  
+    }
   }
 
-}
-
-export default IndexPage
+export default IndexPage2

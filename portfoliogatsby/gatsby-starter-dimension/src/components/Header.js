@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-
+import { Link } from 'gatsby'
 
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
@@ -33,7 +33,7 @@ const Header = props => (
           </button>
         </li>
         <li>
-        {/* <Link path="/work" component={Skillgrid}> */}
+        {/* <Link to="/Skillpage"> */}
           <button
             onClick={() => {
               props.onOpenArticle('work')

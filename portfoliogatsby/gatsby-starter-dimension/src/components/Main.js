@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import React from 'react'
 
-
+import { Link } from 'gatsby'
 import pic03 from '../images/pic03.jpg'
 import pic01 from '../images/pic01.jpg'
 // import { useStaticQuery, graphql } from "gatsby"
@@ -64,6 +64,7 @@ Software and the tech industry provide me a field where I can implement, and con
           {close}
         </article>
 
+        {/* <Link to="/Skillpage"> */}
         <article
           id="#work"
           className={`${this.props.article === 'work' ? 'active' : ''} ${
@@ -74,6 +75,7 @@ Software and the tech industry provide me a field where I can implement, and con
           <Grid/>
           {close}
         </article>
+          {/* </Link> */}
 
         <article
           id="Experience"
