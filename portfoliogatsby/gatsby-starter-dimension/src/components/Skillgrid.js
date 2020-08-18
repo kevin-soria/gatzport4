@@ -3,7 +3,7 @@ import anime from 'animejs/lib/anime.es.js';
 // import PropTypes from 'prop-types'
 import { Link } from "gatsby"
 import bgg from '../images/bg.jpg'
-const Grid = () => {
+const Work = () => {
   anime({
     targets: 'p',
     translateX: 50,
@@ -11,6 +11,7 @@ const Grid = () => {
     // backgroundColor: '#FFF',
     duration: 1500
   });
+  
       // let close = (
       //       <div
       //         className="close"
@@ -44,4 +45,4 @@ return(
 
 }
     
-export default Grid
+export default Work

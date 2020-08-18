@@ -6,7 +6,7 @@ import pic03 from '../images/pic03.jpg'
 import pic01 from '../images/pic01.jpg'
 // import { useStaticQuery, graphql } from "gatsby"
 // import Img from "gatsby-image"
-import Grid from '../components/Skillgrid'
+import Work from '../components/Skillgrid'
 
 
 class Main extends React.Component {
@@ -72,7 +72,7 @@ Software and the tech industry provide me a field where I can implement, and con
           }`}
           style={{ display: 'none' }}
         >
-          <Grid/>
+          <Work/>
           {close}
         </article>
           {/* </Link> */}

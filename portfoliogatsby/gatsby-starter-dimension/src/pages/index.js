@@ -11,7 +11,7 @@ class IndexPage extends React.Component {
       isArticleVisible: false,
       timeout: false,
       articleTimeout: false,
-      article: '',
+      article: "",
       loading: 'is-loading'
     }
     this.handleOpenArticle = this.handleOpenArticle.bind(this)
