@@ -3,10 +3,10 @@ import Typography from "typography"
 const typography = new Typography({
   baseFontSize: "16px",
   googleFonts: [
-    {
-      name: "Source Sans Pro",
-      styles: ["400", "700"],
-    },
+    // {
+    //   name: "Source Sans Pro",
+    //   styles: ["400", "700"],
+    // },
     {
       name: "Roboto",
       styles: ["400", "700"],
@@ -17,7 +17,7 @@ const typography = new Typography({
     },
   ],
   headerFontFamily: [
-    "Source Sans Pro",
+    // "Source Sans Pro",
     "Avenir",
     "Helvetica Neue",
     "Helvetica",
@@ -39,8 +39,11 @@ const typography = new Typography({
   ],
   overrideStyles: () => ({
     a: {
-      fontFamily: `"Source Sans Pro", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif`,
+      fontFamily: `Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif`,
     },
+    // a: {
+    //   fontFamily: `"Source Sans Pro", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif`,
+    // },
   }),
 })
 

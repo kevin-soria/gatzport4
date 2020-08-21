@@ -117,14 +117,16 @@ function AnimateItem({ type, title, image }) {
                     }
               }
             >
-              <Img fluid={image.childImageSharp.fluid} alt={title} />
+              
+              <Img fixed={image.childImageSharp.fixed} alt={title} />
             </div>
           ))
         ) : (
           <>
             <div css={styles.gridImg} ref={imageRef}>
+             
               <Img
-                fluid={image.childImageSharp.fluid}
+                fixed={image.childImageSharp.fixed} 
                 style={{
                   overflow: "visible",
                 }}

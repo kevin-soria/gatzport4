@@ -20,7 +20,7 @@
 		xxsmall:	'(max-width: 360px)'
 	));
 
-	@include skel-layout((
+	@include skel-layout((-
 		reset: 'full',
 		boxModel: 'border'
 	));
@@ -48,4 +48,4 @@
 	@import 'layout/header';
 	@import 'layout/main';
 	@import 'layout/footer';
-	@import 'layout/skillz';
+	@import 'layout/skills2';

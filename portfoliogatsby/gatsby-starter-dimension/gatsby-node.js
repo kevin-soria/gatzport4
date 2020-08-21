@@ -3,6 +3,7 @@
  *
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
+
 exports.onCreateNode = ({ node, getNode }) => {
     if (node.internal.type === `MarkdownRemark`) {
       const fileNode = getNode(node.parent)
