@@ -1,13 +1,13 @@
 ---
 anchor: "skills"
 header: "My Skills:"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "The following technologies are those that I worked and can provide assistance."
 content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 teamMember: [
   {
     imageFileName: "skills/react.png",
     header: "React",
-    subheader: "Lead Designer",
+    subheader: "Front-End Framework & Mobile Development",
     social: {
       twitter: "#",
       facebook: "#",
@@ -17,7 +17,7 @@ teamMember: [
   {
     imageFileName: "skills/python.png",
     header: "Python",
-    subheader: "Lead Marketer",
+    subheader: "Backend Programming Language",
     social: {
       twitter: "#",
       facebook: "#",
@@ -25,7 +25,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "skills/htmlcss.png",
+    imageFileName: "skills/html-css.png",
     header: "HTML/CSS",
     subheader: "Lead Developer",
     social: {
@@ -37,7 +37,27 @@ teamMember: [
   {
     imageFileName: "skills/javascript.png",
     header: "Javascript",
-    subheader: "Lead Developer",
+    subheader: "Front End Language",
+    social: {
+      twitter: "#",
+      facebook: "#",
+      medium: "#"
+    }
+  },
+  {
+    imageFileName: "skills/sql.png",
+    header: "SQL",
+    subheader: "Relational DBMS Query Language",
+    social: {
+      twitter: "#",
+      facebook: "#",
+      medium: "#"
+    }
+  },
+  {
+    imageFileName: "skills/graphql.png",
+    header: "GraphQL",
+    subheader: "Query Language",
     social: {
       twitter: "#",
       facebook: "#",
@@ -47,7 +67,7 @@ teamMember: [
   {
     imageFileName: "skills/Django.png",
     header: "Django",
-    subheader: "Lead Developer",
+    subheader: "Back-end Framework",
     social: {
       twitter: "#",
       facebook: "#",
@@ -57,7 +77,7 @@ teamMember: [
   {
     imageFileName: "skills/mysql.png",
     header: "MySQL",
-    subheader: "Lead Developer",
+    subheader: "Database Management Systems (RDBMS)",
     social: {
       twitter: "#",
       facebook: "#",
