@@ -6,20 +6,26 @@ subheader: "Below is my experience listed in Chronological Order"
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009-2011",
-    subheader: "Our Humble Beginnings",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "2009",
+    subheader: "High School",
+    content: "Graduated High School, with Electives in Drama, Italian, Aerospace"
   },
   {
     imageFileName: "about/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "2011",
+    subheader: "Received Associate In Arts",
+    content: "Major in Environmental Studies"
   },
   {
     imageFileName: "about/3.jpg",
-    header: "December 2012",
-    subheader: "Transition to Full Service",
+    header: "2014",
+    subheader: "Recieved Bachelor's In Scence",
+    content: "BS in Environmental Science in Specialization in Resource Management, 3.2 GPA"
+  },
+  {
+    imageFileName: "about/4.jpg",
+    header: "July 2014",
+    subheader: "Phase Two Expansion",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
   },
   {
