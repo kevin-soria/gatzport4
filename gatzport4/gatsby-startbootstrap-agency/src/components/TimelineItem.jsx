@@ -8,6 +8,7 @@ import "./TimelineItem.scss";
 
 const TimelineItem = ({
   invert,
+  invert1,
   imageFileName,
   imageAlt,
   imageContent,
@@ -19,10 +20,11 @@ const TimelineItem = ({
   const subheaderPart = subheader ? <h4 className="subheading">{subheader}</h4> : null;
 
   const liClassName = clsx("timeline-item", { "timeline-inverted": invert });
+  const invert2 = clsx("slide-right", { "slide-right" : invert1 });
 
   return (
     <li className={liClassName}>
-      <div className="timeline-image">
+      <div className="timeline-image" data-sal={invert2} data-sal-easing="ease"  data-sal-delay="300">
         {imageContent || (
           <Image
             className="rounded-circle img-Fluid"
@@ -46,6 +48,7 @@ const TimelineItem = ({
 
 TimelineItem.propTypes = {
   invert: PropTypes.bool,
+  invert1: PropTypes.bool,
   imageFileName: PropTypes.string,
   imageAlt: PropTypes.string,
   imageContent: PropTypes.any,
@@ -56,6 +59,7 @@ TimelineItem.propTypes = {
 
 TimelineItem.defaultProps = {
   invert: false,
+  invert1: false,
   imageFileName: "",
   imageAlt: "",
   imageContent: null,

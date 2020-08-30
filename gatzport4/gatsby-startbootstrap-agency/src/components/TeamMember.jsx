@@ -20,7 +20,7 @@ const TeamMember = ({
   const mediumPart = medium ? <SocialIcons.Medium userName={medium} /> : null;
 
   return (
-    <div className="team-member">
+    <div className="team-member" data-sal="slide-down" data-sal-easing="ease"  data-sal-delay="100">
       <Image
         className="mx-auto circle rounded-circle"
         fileName={imageFileName}

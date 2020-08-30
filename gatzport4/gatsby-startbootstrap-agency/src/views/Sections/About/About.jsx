@@ -6,6 +6,7 @@ import TimelineItem from "components/TimelineItem";
 import SectionHeader from "components/SectionHeader";
 import PageSection from "components/PageSection";
 import nl2br from "utils/nl2br";
+// import sal from 'sal.js'
 
 import "./About.scss";
 
@@ -27,6 +28,7 @@ const About = ({ className, frontmatter }) => {
             {timeline.map(({ content, header, imageContent, imageFileName, subheader }, ind) => (
               <TimelineItem
                 invert={ind % 2 === 1}
+                invert1={ind % 2 === 1}
                 key={header}
                 imageFileName={imageFileName}
                 header={header}
@@ -38,6 +40,7 @@ const About = ({ className, frontmatter }) => {
                   ) : null
                 }
               />
+
             ))}
           </ul>
         </Col>
