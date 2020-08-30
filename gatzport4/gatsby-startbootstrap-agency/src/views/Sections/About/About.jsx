@@ -28,7 +28,6 @@ const About = ({ className, frontmatter }) => {
             {timeline.map(({ content, header, imageContent, imageFileName, subheader }, ind) => (
               <TimelineItem
                 invert={ind % 2 === 1}
-                invert1={ind % 2 === 1}
                 key={header}
                 imageFileName={imageFileName}
                 header={header}
