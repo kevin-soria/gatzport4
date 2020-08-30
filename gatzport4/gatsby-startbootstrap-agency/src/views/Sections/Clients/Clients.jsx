@@ -3,7 +3,8 @@ import PropTypes from "prop-types";
 import clsx from "clsx";
 
 import { Row, Col } from "react-bootstrap";
-import PageSection from "views/Sections/skills/node_modules/components/PageSection";
+// import SectionHeader from "components/SectionHeader";
+import PageSection from "components/PageSection";
 import Client from "components/Client";
 
 const Clients = ({ className, frontmatter }) => {

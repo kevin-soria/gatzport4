@@ -8,6 +8,7 @@ import PageSection from "components/PageSection";
 import "./skills.scss";
 
 const skills = ({ className, frontmatter }) => {
+
   if (!frontmatter) {
     return null;
   }

@@ -29,7 +29,7 @@ const PortfolioDetailDialog = ({
       <Modal.Body className="mx-auto">
         <p className="item-intro text-muted">{subheader}</p>
         <Image
-          className="img-fluid d-block"
+          className="img-Fluid d-block"
           fileName={imageFileName}
           alt={imageAlt || header || subheader}
         />

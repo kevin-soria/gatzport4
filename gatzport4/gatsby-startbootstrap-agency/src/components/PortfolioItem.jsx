@@ -37,7 +37,7 @@ const PortfolioItem = ({
           onClick={handleShowDetail}
         >
           <Image
-            className="img-fluid"
+            className="img-Fluid"
             fileName={imageFileName}
             alt={imageAlt || header || subheader}
           />

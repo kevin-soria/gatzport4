@@ -4,8 +4,8 @@ import PropTypes from "prop-types";
 import { Row, Col } from "react-bootstrap";
 
 import ServiceItem from "components/ServiceItem";
-import SectionHeader from "views/Sections/skills/node_modules/components/SectionHeader";
-import PageSection from "views/Sections/skills/node_modules/components/PageSection";
+import SectionHeader from "components/SectionHeader";
+import PageSection from "components/PageSection";
 
 const Services = ({ className, frontmatter }) => {
   if (!frontmatter) {

@@ -3,7 +3,9 @@ import PropTypes from "prop-types";
 
 import { Row, Col } from "react-bootstrap";
 import Icon from "components/Icon";
-import PageSection from "views/Sections/skills/node_modules/components/PageSection";
+// import SectionHeader from "components/SectionHeader";
+import PageSection from "components/PageSection";
+
 
 const Contact = ({ className, frontmatter }) => {
   if (!frontmatter) {

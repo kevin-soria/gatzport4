@@ -3,9 +3,9 @@ import PropTypes from "prop-types";
 import clsx from "clsx";
 
 import { Row } from "react-bootstrap";
-import SectionHeader from "views/Sections/skills/node_modules/components/SectionHeader";
 import PortfolioItem from "components/PortfolioItem";
-import PageSection from "views/Sections/skills/node_modules/components/PageSection";
+import SectionHeader from "components/SectionHeader";
+import PageSection from "components/PageSection";
 import "./Portfolio.scss";
 
 const Portfolio = ({ className, frontmatter }) => {
