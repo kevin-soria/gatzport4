@@ -7,7 +7,7 @@ portfolios: [
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/pflogo.png",
     header: "PetFinders",
-    subheader: "https://petfinders-blue.now.sh/",
+    subheader: "React.Js, Python, Agile/Scrum, REST API, Bootstrap",
     content: "A social sharing in connecting pet owners with community
 in connecting back with their lost pets with the use of
 sending neighborhood alerts of lost pest advisories. Scaled
