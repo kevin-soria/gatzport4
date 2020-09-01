@@ -54,7 +54,7 @@ County Health Code. Inspects food hygiene/services of group care facilities, mob
     content: "Developed prototype to initiate the transitioning of the SnkrsDen Marketplace from PHP/Symphony to javascript/React. Identified and resolved bug issues and ensured the responsiveness of the website, through the practice of UI testing. Architected initial cross-platform mobile app design and wire-frame for using Flutter/Dart technologies. Participated in data architecture/structure design and contributed to the selection of technology choices."
   },
   {
-    imageContent: "Be Part\r\nOf Our\r\nStory!"
+    imageContent: "Be Part\r\nOf My\r\nStory!"
   }
 ]
 ---
