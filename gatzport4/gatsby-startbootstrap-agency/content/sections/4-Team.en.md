@@ -10,8 +10,7 @@ teamMember: [
     subheader: "Front-End Framework & Mobile Development",
     social: {
       twitter: "#",
-      facebook: "#",
-      linkedin: "#"
+
     }
   },
   {
@@ -20,18 +19,15 @@ teamMember: [
     subheader: "Backend Programming Language",
     social: {
       twitter: "#",
-      facebook: "#",
-      medium: "#"
     }
   },
   {
     imageFileName: "skills/html-css.png",
     header: "HTML/CSS",
-    subheader: "Lead Developer",
+    subheader: "Mark-up Language & Stylesheet language",
     social: {
       twitter: "#",
-      facebook: "#",
-      medium: "#"
+
     }
   },
   {
@@ -40,8 +36,6 @@ teamMember: [
     subheader: "Front End Language",
     social: {
       twitter: "#",
-      facebook: "#",
-      medium: "#"
     }
   },
   {
@@ -50,8 +44,6 @@ teamMember: [
     subheader: "Relational DBMS Query Language",
     social: {
       twitter: "#",
-      facebook: "#",
-      medium: "#"
     }
   },
   {
@@ -60,8 +52,6 @@ teamMember: [
     subheader: "Query Language",
     social: {
       twitter: "#",
-      facebook: "#",
-      medium: "#"
     }
   },
   {
@@ -70,8 +60,6 @@ teamMember: [
     subheader: "Back-end Framework",
     social: {
       twitter: "#",
-      facebook: "#",
-      medium: "#"
     }
   },
   {
@@ -80,8 +68,6 @@ teamMember: [
     subheader: "Database Management Systems (RDBMS)",
     social: {
       twitter: "#",
-      facebook: "#",
-      medium: "#"
     }
   },
 ]
