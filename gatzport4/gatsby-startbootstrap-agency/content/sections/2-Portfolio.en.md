@@ -5,7 +5,7 @@ subheader: "Here are my projects:"
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/01-full.jpg",
+    imageFileNameDetail: "portfolio/pflogo.png",
     header: "PetFinders",
     subheader: "https://petfinders-blue.now.sh/",
     content: "Use this area to describe your p/roject. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
