@@ -8,7 +8,11 @@ portfolios: [
     imageFileNameDetail: "portfolio/pflogo.png",
     header: "PetFinders",
     subheader: "https://petfinders-blue.now.sh/",
-    content: "Use this area to describe your p/roject. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    content: "A social sharing in connecting pet owners with community
+in connecting back with their lost pets with the use of
+sending neighborhood alerts of lost pest advisories. Scaled
+to implement current last-sightings alerts or current
+location updates of lost animals.",
     extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
   },
   {
