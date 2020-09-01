@@ -22,8 +22,9 @@ const TimelineItem = ({
   const invert2 = invert ? "slide-left" : "slide-right";
 
   return (
-    <li className={liClassName}>
-      <div className="timeline-image" data-sal={invert2} data-sal-easing="ease"  data-sal-delay="300">
+    <li className={liClassName} data-sal={invert2} data-sal-easing="ease"  data-sal-delay="300">
+      {/* <div className="timeline-image" data-sal={invert2} data-sal-easing="ease"  data-sal-delay="300"> */}
+      <div className="timeline-image">
         {imageContent || (
           <Image
             className="rounded-circle img-Fluid"

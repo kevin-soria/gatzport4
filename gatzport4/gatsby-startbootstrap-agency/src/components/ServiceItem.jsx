@@ -18,10 +18,12 @@ const ServiceItem = ({ iconName, imageFileName, header, content }) => {
 
   return (
     <>
+     <div data-sal="fade-in" data-sal-easing="ease"  data-sal-delay="200">
       {iconPart}
       {imagePart}
       <h4 className="service-item-heading">{header}</h4>
       <p className="text-muted">{content}</p>
+    </div>
     </>
   );
 };
