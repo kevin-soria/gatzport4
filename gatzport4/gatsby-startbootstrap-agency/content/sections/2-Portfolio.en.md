@@ -13,7 +13,8 @@ in connecting back with their lost pets with the use of
 sending neighborhood alerts of lost pest advisories. Scaled
 to implement current last-sightings alerts or current
 location updates of lost animals.",
-    extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
+    # extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
+    extraInfo: ["React.Js", "Python", "Agile/Scrum", "REST API", "Bootstrap"]
   },
   {
     imageFileName: "portfolio/02-thumbnail.jpg",
