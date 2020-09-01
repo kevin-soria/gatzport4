@@ -49,7 +49,8 @@ const PortfolioItem = ({
         </a>
         <div className="portfolio-caption">
           <h4>{header}</h4>
-          {subheader ? <p className="text-muted">{subheader}</p> : null}
+          {/* {subheader ? <p className="text-muted">{subheader}</p> : null} */}
+          {subheader ? <a href="https://petfinders-blue.now.sh/" className="text-primary">{subheader}</a> : null}
         </div>
       </Col>
       <PortfolioDetailDialog

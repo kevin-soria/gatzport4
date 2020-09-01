@@ -27,7 +27,7 @@ const PortfolioDetailDialog = ({
         <Modal.Title id="contained-modal-title-vcenter">{header}</Modal.Title>
       </Modal.Header>
       <Modal.Body className="mx-auto">
-        <p className="item-intro text-muted">{subheader}</p>
+      <a href="https://petfinders-blue.now.sh/" className="text-primary">{subheader}</a>
         <Image
           className="img-Fluid d-block"
           fileName={imageFileName}
