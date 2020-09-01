@@ -43,13 +43,13 @@ County Health Code. Inspects food hygiene/services of group care facilities, mob
   },
   {
     imageFileName: "about/4geeks.png",
-    header: "2020",
+    header: "April 2020",
     subheader: "4Geeks Full-time Software Development Bootcamp",
     content: "Learned and build Full-stack Web Apps using HTML/CSS, JavaScript, React.JS, Flux, Python, Flask, Bootstrap, MySQL, and extensive use of API's."
   },
   {
     imageFileName: "about/sneak1.jpg",
-    header: "2020",
+    header: "May 2020",
     subheader: "Web Developer, SnkrsDn",
     content: "Developed prototype to initiate the transitioning of the SnkrsDen Marketplace from PHP/Symphony to javascript/React. Identified and resolved bug issues and ensured the responsiveness of the website, through the practice of UI testing. Architected initial cross-platform mobile app design and wire-frame for using Flutter/Dart technologies. Participated in data architecture/structure design and contributed to the selection of technology choices."
   },

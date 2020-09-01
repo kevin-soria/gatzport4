@@ -21,6 +21,7 @@ const Image = ({ fileName, alt, ...restProps }) => (
           }
         }
       }
+
     }
   `}
   render={(data) => {

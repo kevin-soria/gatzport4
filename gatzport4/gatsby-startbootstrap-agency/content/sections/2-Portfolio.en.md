@@ -17,16 +17,16 @@ location updates of lost animals.",
     extraInfo: ["React.Js", "Python", "Agile/Scrum", "REST API", "Bootstrap"]
   },
   {
-    imageFileName: "portfolio/02-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Explorer",
-    subheader: "Graphic Design",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
+    imageFileName: "portfolio/phonenotice.jpg",
+    imageFileNameDetail: "portfolio/phonenotice.jpg",
+    header: "Queue Notfication Systems",
+    subheader: "https://github.com/kevin-soria/QueueMgt",
+    content: "A queue notification system built for notifiy customers with ability of in-demand inquiries of wait times, and line positions via text SMS/and WhatsAPP, With the use of Twilio API.",
+    extraInfo: ["Python", "Flask", "MySQL", "Git","SqlAlchemy", "MySQL"]
   },
   {
-    imageFileName: "portfolio/03-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/03-full.jpg",
+    imageFileName: "portfolio/phonenotice.jpg",
+    imageFileNameDetail: "portfolio/phonenotice.jpg",
     header: "Finish",
     subheader: "Identity",
     content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
