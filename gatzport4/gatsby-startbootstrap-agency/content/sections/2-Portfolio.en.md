@@ -7,7 +7,7 @@ portfolios: [
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "PetFinders",
-    subheader: "Illustration",
+    subheader: "https://petfinders-blue.now.sh/",
     content: "Use this area to describe your p/roject. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
     extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
   },
