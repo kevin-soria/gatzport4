@@ -4,7 +4,7 @@ header: "Portfolio"
 subheader: "Here are my projects:"
 portfolios: [
   {
-    imageFileName: "pportfolio/pflogo.png",
+    imageFileName: "portfolio/pflogo.png",
     imageFileNameDetail: "portfolio/pflogo.png",
     header: "PetFinders",
     subheader: "petfinders-blue.now.sh/",
