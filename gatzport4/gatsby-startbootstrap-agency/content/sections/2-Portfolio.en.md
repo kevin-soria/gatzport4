@@ -75,10 +75,6 @@ location updates of lost animals.",
 ]
 ---
 <!-- ---
-anchor: "Portfolio"
-header: "Portfolio"
-subheader: "Here are my projects:"
-portfolios: [
 
   {
     imageFileName: "portfolio/phonenotice.jpg",
