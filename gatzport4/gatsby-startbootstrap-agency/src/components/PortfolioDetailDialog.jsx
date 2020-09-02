@@ -4,6 +4,7 @@ import PropTypes from "prop-types";
 import { Modal, Button } from "react-bootstrap";
 import Image from "components/Image";
 import Icon from "./Icon";
+import "./PortfolioDetailDialog.scss";
 
 const PortfolioDetailDialog = ({
   onHide,
@@ -22,19 +23,25 @@ const PortfolioDetailDialog = ({
       size="lg"
       aria-labelledby="contained-modal-title-vcenter"
       centered
-    >
+    className="title">
       <Modal.Header closeButton>
         <Modal.Title id="contained-modal-title-vcenter">{header}</Modal.Title>
       </Modal.Header>
-      <Modal.Body className="mx-auto">
-      <a href="https://petfinders-blue.now.sh/" className="text-primary">{subheader}</a>
+      <Modal.Body className="mx-auto techstackstyle">
+      <h3>
+      <a href={subheader} className="text-primary">{subheader}</a>
+      </h3>
+        
         <Image
           className="img-Fluid d-block"
           fileName={imageFileName}
           alt={imageAlt || header || subheader}
         />
-        <p>{content}</p>
+        <p className="titlewithmargin">{content}</p>
+        <p className="techstackstyle">
+        The technologies i used for this project are the following:
         {extraInfo}
+        </p>
       </Modal.Body>
       <Modal.Footer>
         <div className="mx-auto">
