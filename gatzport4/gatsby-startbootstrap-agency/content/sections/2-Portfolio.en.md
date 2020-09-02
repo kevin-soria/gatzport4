@@ -33,8 +33,8 @@ location updates of lost animals.",
     extraInfo: ["React", "Bootstrap", "UseContextAPI", "CRUD/API integration", "Postman"]
   },
   {
-    imageFileName: "portfolio/04-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/04-full.jpg",
+    imageFileName: "portfolio/starwarsblog.png",
+    imageFileNameDetail: "portfolio/starwarsblog.png",
     header: "Star War Blog",
     subheader: "https://github.com/kevin-soria/StarWars-site",
     content: "An Interactive, Star Wars Blog Landing Page, with direct links to informational links on the films, wiki articles, and the official Star Wars website.",
@@ -54,7 +54,7 @@ location updates of lost animals.",
     header: "Python Mobile Flashcard Quiz app",
     subheader: "github.com/kevin-soria/python_quiz_flutter",
     content: "Mobile app created with Flutter in Dart dedicated to be flash cards to help those who need to study popular python interview questions!",
-    extraInfo: ["Dart", "Flutter", "Andriod Studio"]
+    extraInfo: ["Dart", "Flutter", "Android Studio"]
   },
   {
     imageFileName: "portfolio/musicpic1.jpeg",
