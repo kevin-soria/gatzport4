@@ -76,14 +76,7 @@ location updates of lost animals.",
 ---
 <!-- ---
 
-  {
-    imageFileName: "portfolio/phonenotice.jpg",
-    imageFileNameDetail: "portfolio/phonenotice.jpg",
-    header: "Contect List",
-    subheader: "github.com/kevin-soria/CMA",
-    content: "Contact List with API to store potential client contact information. Tailored for implementation and adaptability for the use of companies.",
-    extraInfo: ["Date: January 2017", "Client: Finish", "Category: Identity"]
-  },
+
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
     imageFileNameDetail: "portfolio/04-full.jpg",
