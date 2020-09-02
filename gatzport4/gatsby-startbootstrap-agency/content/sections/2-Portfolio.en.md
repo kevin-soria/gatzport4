@@ -25,12 +25,12 @@ location updates of lost animals.",
     extraInfo: ["Python", "Flask", "MySQL", "Git","SqlAlchemy", "MySQL"]
   },
   {
-    imageFileName: "portfolio/phonenotice.jpg",
-    imageFileNameDetail: "portfolio/phonenotice.jpg",
+    imageFileName: "portfolio/cma1.png",
+    imageFileNameDetail: "portfolio/cma1.png",
     header: "Contact List",
     subheader: "github.com/kevin-soria/CMA",
     content: "Contact List with API to store potential client contact information. Tailored for implementation and adaptability for the use of companies.",
-    extraInfo: ["React", "Bootstrap", "UseContextAPI", "CRUD/API integration"]
+    extraInfo: ["React", "Bootstrap", "UseContextAPI", "CRUD/API integration", "Postman"]
   },
   {
     imageFileName: "portfolio/04-thumbnail.jpg",
@@ -41,15 +41,15 @@ location updates of lost animals.",
     extraInfo: ["Date: January 2017", "Client: Lines", "Category: Branding"]
   },
   {
-    imageFileName: "portfolio/05-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "Marphoto FIlms Photography Portfolio Website",
-    subheader: "",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
+    imageFileName: "portfolio/marscreentb.png",
+    imageFileNameDetail: "portfolio/marscreenshot.jpg.png",
+    header: "Marphoto Films Photography Portfolio Website",
+    subheader: "marphotofilms.com",
+    content: "Add Derials!",
+    extraInfo: ["Cms: Squarespace", "Css Grid, & Flex Box", "HTML", "UI/UX"]
   },
   {
-    imageFileName: "portfolio/05-thumbnail.jpg",
+    imageFileName: "portfolio/l05-thumbnai.jpg",
     imageFileNameDetail: "portfolio/05-full.jpg",
     header: "Python Mobile Flashcard Quiz app",
     subheader: "",
@@ -69,7 +69,7 @@ location updates of lost animals.",
     imageFileNameDetail: "portfolio/06-full.jpg",
     header: "More Projects...",
     subheader: "Photography",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
+    content: "More Projects I've Done!",
     extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
   }
 ]
