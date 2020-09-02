@@ -49,20 +49,20 @@ location updates of lost animals.",
     extraInfo: ["Cms: Squarespace", "Css Grid, & Flex Box", "HTML", "UI/UX"]
   },
   {
-    imageFileName: "portfolio/l05-thumbnai.jpg",
-    imageFileNameDetail: "portfolio/05-full.jpg",
+    imageFileName: "portfolio/flashcards1.png",
+    imageFileNameDetail: "portfolio/flashcards1.png",
     header: "Python Mobile Flashcard Quiz app",
-    subheader: "",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
+    subheader: "github.com/kevin-soria/python_quiz_flutter",
+    content: "Mobile app created with Flutter in Dart dedicated to be flash cards to help those who need to study popular python interview questions!",
+    extraInfo: ["Dart", "Flutter", "Andriod Studio"]
   },
   {
-    imageFileName: "portfolio/05-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/05-full.jpg",
+    imageFileName: "portfolio/musicpic1.jpeg",
+    imageFileNameDetail: "portfolio/musicpic1.jpeg",
     header: "Audio/Player, with Sounds API",
-    subheader: "",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
+    subheader: "github.com/kevin-soria/MusicPlayer",
+    content: "details",
+    extraInfo: ["React", "Fetch API", "Dom Manipulation", "Javascript"]
   },
   {
     imageFileName: "portfolio/06-thumbnail.jpg",
