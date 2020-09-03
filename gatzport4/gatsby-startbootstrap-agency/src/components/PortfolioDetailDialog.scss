@@ -34,10 +34,10 @@ Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "No
     @include body-font;
     margin-top: 2%;
     font-size: 120%;
-    color: white;
-    background-color: limegreen;
+    background-color: green;
+    color: whitesmoke;
     text-align: center;
-    border: 10px, solid, black;
+    border: 10px double black;
 }
 .title{
     @include script-font;
