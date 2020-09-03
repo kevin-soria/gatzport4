@@ -3,6 +3,7 @@ anchor: "Services"
 header: "Services"
 subheader: "What i offer as a software developer."
 services: [
+  # google each header and type in the first thing you see
   {
     iconName: "LayerIcon",
     header: "Full Stack Development",

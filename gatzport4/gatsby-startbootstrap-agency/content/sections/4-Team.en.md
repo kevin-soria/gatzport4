@@ -2,7 +2,7 @@
 anchor: "skills"
 header: "My Skills:"
 subheader: "The following technologies are those that I worked and can provide assistance."
-content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+content: "The above skills i have proficient knowledge and experience with, and interest and utilizing more of them. The skills below I am am currently to master them in the near future."
 teamMember: [
   {
     imageFileName: "skills/react.png",
