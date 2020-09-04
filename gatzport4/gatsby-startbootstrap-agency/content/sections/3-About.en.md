@@ -19,7 +19,7 @@ timeline: [
   {
     imageFileName: "about/fiu1.jpg",
     header: "2014",
-    subheader: "Recieved Bachelor's In Scence",
+    subheader: "Received Bachelor's In Scence",
     content: "BS in Environmental Science in Specialization in Resource Management, 3.2 GPA, With additional course work In advance statistics, political science, and geology."
   },
   {

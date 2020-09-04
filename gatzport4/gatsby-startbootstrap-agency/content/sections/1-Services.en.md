@@ -7,32 +7,32 @@ services: [
   {
     iconName: "LayerIcon",
     header: "Full Stack Development",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Developing both client and server software. In addition to mastering HTML and CSS,  also knows how to: Programming a browser  JavaScript, jQuery, & Vue) Program a server (like using PHP/Laravel, Python/Django, & Node/Express)"
   },
   {
     iconName: "DBIcon",
     header: "Database Management",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Creating new databases or upgrading existing databases for large or small companies. Perform maintenance on databases by organizing, storing and retrieving data. Checking data accessibility and troubleshoot problems with new systems as needed."
   },
   {
     iconName: "LpcodeIcon",
     header: "Software Architecture",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "A expert-level software developer thayt communicates with businesses and clients to design and execute solutions and can collaborate with a team of software engineers."
   },
   {
     iconName: "CogIcon",
     header: "Agile Development",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Take responsibility for estimating, planning, and managing all of required tasks and reporting on progress. Offering excellent project management a smaller scale."
   },
   {
     iconName: "MobileIcon",
     header: "Mobile Development",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: " Ability to create, test, and program apps for computers, mobile phones, and tablets. Developing mobile apps that can be used on multiple  platforms with using Dart/Flutter or React Native therefore decreasing costs and increase the speed at which apps are developed. "
   },
   {
     iconName: "WrenchIcon",
     header: "Dev-Ops",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    content: "Implementing practices that work to automate and integrate the processes between software development and IT teams, so software can can be built, tested, and released faster and more reliably."
   }
 ]
 ---
