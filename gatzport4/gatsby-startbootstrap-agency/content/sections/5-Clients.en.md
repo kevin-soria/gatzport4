@@ -1,19 +1,19 @@
 ---
 clients: [
   {
-    imageFileName: "logos/envato.jpg",
+    imageFileName: "logos/typescript.png",
     href: "#!"
   },
   {
-    imageFileName: "logos/designmodo.jpg",
+    imageFileName: "logos/aws.png",
     href: "#!"
   },
   {
-    imageFileName: "logos/themeforest.jpg",
+    imageFileName: "logos/machinelearning.png",
     href: "#!"
   },
   {
-    imageFileName: "logos/creative-market.jpg",
+    imageFileName: "logos/cybersecurity.jpg",
     href: "#!"
   }
 ]
