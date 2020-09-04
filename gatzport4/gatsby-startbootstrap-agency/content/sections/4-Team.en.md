@@ -9,8 +9,7 @@ teamMember: [
     header: "React",
     subheader: "Front-End Framework & Mobile Development",
     social: {
-      twitter: "#",
-
+      link: "https://reactjs.org/",
     }
   },
   {
@@ -18,7 +17,7 @@ teamMember: [
     header: "Python",
     subheader: "Backend Programming Language",
     social: {
-      twitter: "#",
+      link: "https://www.python.org/",
     }
   },
   {
@@ -26,7 +25,7 @@ teamMember: [
     header: "HTML/CSS",
     subheader: "Mark-up Language & Stylesheet language",
     social: {
-      twitter: "#",
+      link: "https://www.w3.org/standards/webdesign/htmlcss#:~:text=HTML%20(the%20Hypertext%20Markup%20Language,for%20a%20variety%20of%20devices.",
 
     }
   },
@@ -35,7 +34,7 @@ teamMember: [
     header: "Javascript",
     subheader: "Front End Language",
     social: {
-      twitter: "#",
+      link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     }
   },
   {
@@ -43,7 +42,7 @@ teamMember: [
     header: "SQL",
     subheader: "Relational DBMS Query Language",
     social: {
-      twitter: "#",
+      link: "https://www.w3schools.com/sql/sql_intro.asp",
     }
   },
   {
@@ -51,7 +50,7 @@ teamMember: [
     header: "GraphQL",
     subheader: "Query Language",
     social: {
-      twitter: "#",
+      link: "https://graphql.org/",
     }
   },
   {
@@ -59,7 +58,7 @@ teamMember: [
     header: "Django",
     subheader: "Back-end Framework",
     social: {
-      twitter: "#",
+      link: "https://www.djangoproject.com/",
     }
   },
   {
@@ -67,7 +66,7 @@ teamMember: [
     header: "MySQL",
     subheader: "Database Management Systems (RDBMS)",
     social: {
-      twitter: "#",
+      link: "https://www.mysql.com/",
     }
   },
 ]

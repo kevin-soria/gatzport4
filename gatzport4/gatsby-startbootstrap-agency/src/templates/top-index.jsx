@@ -68,6 +68,7 @@ export const query = graphql`
             linkedin
             medium
             twitter
+            link
           }
           subheader
           teamMember {
@@ -79,6 +80,7 @@ export const query = graphql`
               linkedin
               medium
               twitter
+              link
             }
             subheader
           }

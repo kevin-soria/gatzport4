@@ -5,7 +5,7 @@ clients: [
     href: "#!"
   },
   {
-    imageFileName: "logos/aws.png",
+    imageFileName: "logos/aws1.png",
     href: "#!"
   },
   {
