@@ -1,7 +1,7 @@
 ---
 anchor: "Services"
 header: "Services"
-subheader: "What i offer as a software developer."
+subheader: "What I offer as a software developer."
 services: [
   # google each header and type in the first thing you see
   {
@@ -17,7 +17,7 @@ services: [
   {
     iconName: "LpcodeIcon",
     header: "Software Architecture",
-    content: "A expert-level software developer thayt communicates with businesses and clients to design and execute solutions and can collaborate with a team of software engineers."
+    content: "A expert-level software developer that communicates with businesses and clients to design and execute solutions and can collaborate with a team of software engineers."
   },
   {
     iconName: "CogIcon",

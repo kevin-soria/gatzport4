@@ -20,7 +20,7 @@ timeline: [
     imageFileName: "about/fiu1.jpg",
     header: "2014",
     subheader: "Received Bachelor's In Scence",
-    content: "BS in Environmental Science in Specialization in Resource Management, 3.2 GPA, With additional course work In advance statistics, political science, and geology."
+    content: "BS in Environmental Science in Specialization in Resource Management, 3.2 GPA, With additional course work in advanced statistics, political science, and geology."
   },
   {
     imageFileName: "about/remax.jpg",
@@ -37,20 +37,20 @@ timeline: [
   {
     imageFileName: "about/florida-health-logo.png",
     header: "2017",
-    subheader: "Health Inspector/Environmental Specialist, Florida Deparment of Health in Broward County",
+    subheader: "Health Inspector/Environmental Specialist, Florida Department of Health in Broward County",
     content: "Conducted Routine and Re-inspections for public swimming pools, private schools, assisted living facilities, and to assure compliance State and
 County Health Code. Inspects food hygiene/services of group care facilities, mobile home park, and summer food programs."
   },
   {
     imageFileName: "about/4geeks.png",
     header: "April 2020",
-    subheader: "4Geeks Full-time Software Development Bootcamp",
-    content: "Learned and build Full-stack Web Apps using HTML/CSS, JavaScript, React.JS, Flux, Python, Flask, Bootstrap, MySQL, and extensive use of API's."
+    subheader: "4Geeks Full-Time Software Development Bootcamp",
+    content: "Learned and build full-stack Web Apps using HTML/CSS, JavaScript, React.JS, Flux, Python, Flask, Bootstrap, MySQL, and extensive use of API's."
   },
   {
     imageFileName: "about/sneak1.jpg",
     header: "May 2020",
-    subheader: "Web Developer, SnkrsDn",
+    subheader: "Web Developer, SnkrsDen",
     content: "Developed prototype to initiate the transitioning of the SnkrsDen Marketplace from PHP/Symphony to javascript/React. Identified and resolved bug issues and ensured the responsiveness of the website, through the practice of UI testing. Architected initial cross-platform mobile app design and wire-frame for using Flutter/Dart technologies. Participated in data architecture/structure design and contributed to the selection of technology choices."
   },
   {

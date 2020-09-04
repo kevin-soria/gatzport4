@@ -28,7 +28,7 @@ const PortfolioItem = ({
 
   return (
     <>
-      <Col lg={3} md={3} sm={4} className="portfolio-item">
+      <Col lg={3} md={3} sm={6} className="portfolio-item">
         <a
           role="button"
           tabIndex={-1}
@@ -50,7 +50,7 @@ const PortfolioItem = ({
         <div className="portfolio-caption">
           <h4>{header}</h4>
           {/* {subheader ? <p className="text-muted">{subheader}</p> : null} */}
-          {subheader ? <a href="https://petfinders-blue.now.sh/" className="text-primary">{subheader}</a> : null}
+          {subheader ? <a href={subheader} className="text-primary">{subheader}</a> : null}
         </div>
       </Col>
       <PortfolioDetailDialog

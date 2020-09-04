@@ -61,7 +61,7 @@ location updates of lost animals.",
     imageFileNameDetail: "portfolio/musicpic1.jpeg",
     header: "Audio/Player, with Sounds API",
     subheader: "https://github.com/kevin-soria/MusicPlayer",
-    content: "A music player, inspired by Spotify, allowing users to play, pause, audio clips uploaded from the REST Api as desired. Integrating the Sounds API. The app uses fetch, xxxx, and mianupluation of the DOM via ReactDOM. Plans to scale by adding features such as shuffle, slider timeline, repeat mode , and volume control.",
+    content: "A music player, inspired by Spotify, allowing users to play, pause, audio clips uploaded from the REST Api as desired. Integrating the Sounds API. The app uses fetch, and manupluation of the DOM via ReactDOM. Plans to scale by adding features such as shuffle, slider timeline, repeat mode , and volume control.",
     extraInfo: ["React", "Fetch API", "Dom Manipulation", "Javascript"]
   },
   {
