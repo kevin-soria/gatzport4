@@ -9,11 +9,10 @@ import useWindowOnScroll from "hooks/useWindowOnScroll";
 import useSmoothScrollTo from "hooks/useSmoothScrollTo";
 import Icon from "components/Icon";
 import NavItem from "components/NavItem";
-import Imagee from "components/image2";
 import "./Navbar.scss";
 
 const MyNavbar = ({ anchors, frontmatter, extraItems, }) => {
-  const { brand, menuText, imageFileName } = frontmatter;
+  const { brand, menuText} = frontmatter;
 // console.log(imageFileName)
   const handleScrollToTop = useSmoothScrollTo(0);
 
@@ -69,12 +68,10 @@ MyNavbar.propTypes = {
   anchors: PropTypes.arrayOf(PropTypes.string),
   frontmatter: PropTypes.object,
   extraItems: PropTypes.any,
-  imageFileName: PropTypes.string,
 };
 
 MyNavbar.defaultProps = {
   anchors: [],
-  imageFileName: "",
   frontmatter: {},
   extraItems: null,
 };

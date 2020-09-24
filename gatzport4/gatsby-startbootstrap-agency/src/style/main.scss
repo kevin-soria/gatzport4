@@ -3,8 +3,12 @@
 
 /* Global styling for this template */
 body {
-  overflow-x: hidden;
+  // overflow-x: hidden;
   @include body-font;
+}
+
+#gatsby-focus-wrapper {
+  overflow-x: hidden;
 }
 
 p {

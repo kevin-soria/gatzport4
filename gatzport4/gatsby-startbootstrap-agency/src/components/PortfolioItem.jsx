@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import { Col } from "react-bootstrap";
+import { Col} from "react-bootstrap";
 import Image from "components/Image";
 import Icon from "components/Icon";
 import PortfolioDetailDialog from "components/PortfolioDetailDialog";
@@ -28,7 +28,8 @@ const PortfolioItem = ({
 
   return (
     <>
-      <Col lg={3} md={3} sm={6} className="portfolio-item">
+      
+      <Col lg={3} md={3} sm={6} xs={12} className="portfolio-item">
         <a
           role="button"
           tabIndex={-1}

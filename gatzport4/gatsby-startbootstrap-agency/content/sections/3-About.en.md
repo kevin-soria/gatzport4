@@ -37,7 +37,7 @@ timeline: [
   {
     imageFileName: "about/florida-health-logo.png",
     header: "2017",
-    subheader: "Health Inspector/Environmental Specialist, Florida Department of Health in Broward County",
+    subheader: "Health Inspector/\r\nEnvironmental Specialist, Florida Department of Health in Broward County",
     content: "Conducted Routine and Re-inspections for public swimming pools, private schools, assisted living facilities, and to assure compliance State and
 County Health Code. Inspects food hygiene/services of group care facilities, mobile home park, and summer food programs."
   },

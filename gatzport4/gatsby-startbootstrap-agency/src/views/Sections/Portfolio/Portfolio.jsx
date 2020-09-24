@@ -20,6 +20,7 @@ const Portfolio = ({ className, frontmatter }) => {
       <Row>
         <SectionHeader header={rootHeader} subheader={rootSubHeader} />
       </Row>
+      
       <Row>
         {portfolios.map(
           ({ content, extraInfo, header, imageFileName, imageFileNameDetail, subheader }) => (
@@ -41,6 +42,7 @@ const Portfolio = ({ className, frontmatter }) => {
           ),
         )}
       </Row>
+      
     </PageSection>
   );
 };
