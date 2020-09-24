@@ -7,7 +7,7 @@ services: [
   {
     iconName: "LayerIcon",
     header: "Full Stack Development",
-    content: "Developing both client and server software. In addition to mastering HTML and CSS, highly skilled in frameworks and languages for: Programming browsers  (JavaScript, jQuery, & Vue) & Program a servers (like using PHP/Laravel, Python/Django, & Node/Express)"
+    content: "Developing both client and server software. In addition to mastering HTML and CSS, highly skilled in frameworks and languages for: Programming browsers  (JavaScript, jQuery, & Vue) & Programming servers (like using PHP/Laravel, Python/Django, & Node/Express)"
   },
   {
     iconName: "DBIcon",
