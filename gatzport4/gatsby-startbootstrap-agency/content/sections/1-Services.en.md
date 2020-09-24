@@ -7,7 +7,7 @@ services: [
   {
     iconName: "LayerIcon",
     header: "Full Stack Development",
-    content: "Developing both client and server software. In addition to mastering HTML and CSS,  also knows how to: Programming a browser  JavaScript, jQuery, & Vue) Program a server (like using PHP/Laravel, Python/Django, & Node/Express)"
+    content: "Developing both client and server software. In addition to mastering HTML and CSS, I also how to: Programming a browser  (JavaScript, jQuery, & Vue) Program a server (like using PHP/Laravel, Python/Django, & Node/Express)"
   },
   {
     iconName: "DBIcon",
@@ -32,7 +32,7 @@ services: [
   {
     iconName: "WrenchIcon",
     header: "Dev-Ops",
-    content: "Implementing practices that work to automate and integrate the processes between software development and IT teams, so software can can be built, tested, and released faster and more reliably."
+    content: "Implementing practices that work to automate and integrate the processes between software development and IT teams, so software can be built, tested, and released faster and more reliably."
   }
 ]
 ---
