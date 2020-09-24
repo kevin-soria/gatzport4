@@ -17,7 +17,7 @@ services: [
   {
     iconName: "LpcodeIcon",
     header: "Software Architecture",
-    content: "A expert-level software developer that communicates with businesses and clients to design and execute solutions and can collaborate with a team of software engineers."
+    content: "A expert-level software developer that communicates with businesses and clients to implment design patterns and execute solutions and can collaborate with a team of software engineers."
   },
   {
     iconName: "CogIcon",
