@@ -33,6 +33,11 @@ services: [
     iconName: "WrenchIcon",
     header: "Dev-Ops",
     content: "Implementing practices that work to automate and integrate the processes between software development and IT teams, so software can be built, tested, and released faster and more reliably."
+  },
+    {
+    iconName: "WrenchIcon",
+    header: "Design",
+    content: "Just testing, ya feel?."
   }
 ]
 ---
