@@ -27,58 +27,26 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-da51183939aefbac6418.js"
+    "url": "webpack-runtime-3809ea12f199ea13bab2.js"
   },
   {
-    "url": "styles.e7890dda50c537ae1c9c.css"
+    "url": "styles.71d85199c8e4cce9c4a4.css"
   },
   {
-    "url": "styles-89fd2ae28bdf06750a71.js"
+    "url": "styles-0ec71dd62c66cb95665c.js"
   },
   {
-    "url": "framework-a576ae5ab153fa4a7c27.js"
+    "url": "framework-803d15bfc38f8032fc82.js"
   },
   {
-    "url": "app-d0c54bf873437f9bdc4d.js"
+    "url": "app-009f0a3a12c1823242d7.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "851dc8a1c19081612fcc685bf4994db7"
+    "revision": "6fa307ed4cffba2dd57f680fa42714d4"
   },
   {
-    "url": "google-fonts/s/droidserif/v12/tDbI2oqRg1oM3QBjjcaDkOr9rAU.woff2",
-    "revision": "62b4ed3cb1a22974f1a1b14a45ebb76e"
-  },
-  {
-    "url": "google-fonts/s/droidserif/v12/tDbK2oqRg1oM3QBjjcaDkOr4nAfcHg.woff2",
-    "revision": "847076af0a2064282724f913e8443124"
-  },
-  {
-    "url": "google-fonts/s/droidserif/v12/tDbV2oqRg1oM3QBjjcaDkOJGiRD7OwE.woff2",
-    "revision": "c914631f20a99ca0d322d775090ea4f7"
-  },
-  {
-    "url": "google-fonts/s/droidserif/v12/tDbX2oqRg1oM3QBjjcaDkOr4lLz5CwOnSA.woff2",
-    "revision": "21b7bed43e1c81de0277b6e2e96e9981"
-  },
-  {
-    "url": "google-fonts/s/kaushanscript/v8/vm8vdRfvXFLG3OLnsO15WYS5DG74wNI.woff2",
-    "revision": "e2ea67e80b95334da4768bffdf3d4f9d"
-  },
-  {
-    "url": "google-fonts/s/kaushanscript/v9/vm8vdRfvXFLG3OLnsO15WYS5DG74wNI.woff2",
-    "revision": "e2ea67e80b95334da4768bffdf3d4f9d"
-  },
-  {
-    "url": "google-fonts/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2",
-    "revision": "39d93cf678c740f9f6b2b1cfde34bee3"
-  },
-  {
-    "url": "google-fonts/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
-    "revision": "bc3aa95dca08f5fee5291e34959c27bc"
-  },
-  {
-    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-7c31e2436cade51cbcda.js"
+    "url": "component---cache-caches-gatsby-plugin-offline-app-shell-js-49be599b1ad8fa2a8465.js"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -86,10 +54,10 @@ self.__precacheManifest = [
   },
   {
     "url": "page-data/app-data.json",
-    "revision": "4578505e841a4cbfbac979ef21dada35"
+    "revision": "c58230cb14b559d292ca6576cdbbe466"
   },
   {
-    "url": "polyfill-830cd53ca5c6720b5926.js"
+    "url": "polyfill-e321dadb06c68f3d52e7.js"
   },
   {
     "url": "manifest.webmanifest",
@@ -100,7 +68,7 @@ workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerRoute(/(\.js$|\.css$|static\/)/, new workbox.strategies.CacheFirst(), 'GET');
 workbox.routing.registerRoute(/^https?:.*\/page-data\/.*\.json/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
-workbox.routing.registerRoute(/^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
+workbox.routing.registerRoute(/^https?:.*\.(png|jpg|jpeg|webp|avif|svg|gif|tiff|js|woff|woff2|json|css)$/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
 workbox.routing.registerRoute(/^https?:\/\/fonts\.googleapis\.com\/css/, new workbox.strategies.StaleWhileRevalidate(), 'GET');
 
 /* global importScripts, workbox, idbKeyval */
@@ -185,7 +153,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-d0c54bf873437f9bdc4d.js`))) {
+  if (!resources || !(await caches.match(`/app-009f0a3a12c1823242d7.js`))) {
     return await fetch(event.request)
   }
 
