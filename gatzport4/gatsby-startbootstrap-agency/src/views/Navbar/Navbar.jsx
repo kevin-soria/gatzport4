@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 
 import clsx from "clsx";
 
-import { Navbar, Container, Nav } from "react-bootstrap";
+import { Navbar, Container, Nav, Image } from "react-bootstrap";
 
 import useWindowOnScroll from "hooks/useWindowOnScroll";
 import useSmoothScrollTo from "hooks/useSmoothScrollTo";
@@ -12,8 +12,8 @@ import NavItem from "components/NavItem";
 import "./Navbar.scss";
 
 const MyNavbar = ({ anchors, frontmatter, extraItems, }) => {
-  const { brand, menuText} = frontmatter;
-// console.log(imageFileName)
+  const { brand, menuText, imageFileName} = frontmatter;
+// console.log("test", imageFileName)
   const handleScrollToTop = useSmoothScrollTo(0);
 
   const [expanded, setExpanded] = React.useState(false);
@@ -45,8 +45,8 @@ const MyNavbar = ({ anchors, frontmatter, extraItems, }) => {
       <Container>
         <Navbar.Brand className="cursor-pointer" onClick={handleBrandClick}>
           {brand}
-      {/* <Imagee fileName={imageFileName}/> */}
         </Navbar.Brand>
+      <Image imagefileName={imageFileName}/>
         <Navbar.Toggle onClick={toggleMenu} aria-label="Toggle navigation">
           {menuText}
           <Icon iconName="BarsIcon" />

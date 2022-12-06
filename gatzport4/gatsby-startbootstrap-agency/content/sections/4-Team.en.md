@@ -15,17 +15,17 @@ teamMember: [
   {
     imageFileName: "skills/python.png",
     header: "Python",
-    subheader: "Backend Programming Language",
+    subheader: "Backend & Server Applications",
     social: {
       link: "https://www.python.org/",
     }
   },
   {
-    imageFileName: "skills/html-css.png",
-    header: "HTML/CSS",
-    subheader: "Mark-up Language & Stylesheet language",
+    imageFileName: "skills/git2.png",
+    header: "Git",
+    subheader: "Version Control",
     social: {
-      link: "https://www.w3.org/standards/webdesign/htmlcss#:~:text=HTML%20(the%20Hypertext%20Markup%20Language,for%20a%20variety%20of%20devices.",
+      link: "https://www.github.com/",
 
     }
   },
@@ -38,6 +38,14 @@ teamMember: [
     }
   },
   {
+    imageFileName: "skills/express.png",
+    header: "Express.js",
+    subheader: "Backend JS Framwork",
+    social: {
+      link: "https://www.expressjs.com/",
+    }
+  },
+  {
     imageFileName: "skills/sql.png",
     header: "SQL",
     subheader: "Relational DBMS Query Language",
@@ -46,27 +54,83 @@ teamMember: [
     }
   },
   {
-    imageFileName: "skills/graphql.png",
-    header: "GraphQL",
-    subheader: "Query Language",
+    imageFileName: "skills/docker.png",
+    header: "Docker",
+    subheader: "Containerization",
     social: {
-      link: "https://graphql.org/",
+      link: "https://www.docker.com.org/",
     }
   },
   {
-    imageFileName: "skills/Django.png",
-    header: "Django",
-    subheader: "Back-end Framework",
+    imageFileName: "skills/aws.png",
+    header: "AWS",
+    subheader: "Cloud Infrastructure Provider",
     social: {
-      link: "https://www.djangoproject.com/",
+      link: "https://www.aws.com/",
     }
   },
   {
     imageFileName: "skills/mysql.png",
     header: "MySQL",
-    subheader: "Database Management Systems (RDBMS)",
+    subheader: "Relational Database",
     social: {
       link: "https://www.mysql.com/",
+    }
+  },
+  {
+    imageFileName: "skills/mongo.png",
+    header: "MongoDB",
+    subheader: "NoSQL Database",
+    social: {
+      link: "https://www.mongodb.com/",
+    }
+  },
+  {
+    imageFileName: "skills/redis.png",
+    header: "Redis",
+    subheader: "Cache Database",
+    social: {
+      link: "https://www.redis.io/",
+    }
+  },
+  {
+    imageFileName: "skills/elastic.png",
+    header: "Elasticsearch",
+    subheader: "Search Engine DB",
+    social: {
+      link: "https://www.elastic.co/",
+    }
+  },
+  {
+    imageFileName: "skills/rabbitmq.png",
+    header: "RabbitMQ",
+    subheader: "Message MQ",
+    social: {
+      link: "https://www.rabbitmq.com/",
+    }
+  },
+  {
+    imageFileName: "skills/jenkins.png",
+    header: "Jenkins",
+    subheader: "CI/CD",
+    social: {
+      link: "https://www.jenkins.io",
+    }
+  },
+  {
+    imageFileName: "skills/k8.png",
+    header: "Kubernetes",
+    subheader: "Container Orchestration",
+    social: {
+      link: "https://www.kubernetes.io/",
+    }
+  },
+  {
+    imageFileName: "skills/linux.png",
+    header: "Linux",
+    subheader: "Operating System",
+    social: {
+      link: "https://www.linux.org/",
     }
   },
 ]

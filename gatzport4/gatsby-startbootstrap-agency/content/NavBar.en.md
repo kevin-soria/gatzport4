@@ -1,5 +1,5 @@
 ---
 brand: "Software Dev Kev"
 menuText: "Menu "
-imageFileName: "logo1.png"
+imageFileName: "skills/logo1.png"
 ---

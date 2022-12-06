@@ -84,7 +84,6 @@ export const query = graphql`
             }
             subheader
           }
-          telephone
           termsHref
           termsText
           title

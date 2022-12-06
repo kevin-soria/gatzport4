@@ -56,22 +56,22 @@ location updates of lost animals.",
     content: "Mobile app created with Flutter in Dart dedicated to be flash cards to help those who need to study popular python interview questions!",
     extraInfo: ["Dart", "Flutter", "Android Studio"]
   },
-  {
-    imageFileName: "portfolio/musicpic1.jpeg",
-    imageFileNameDetail: "portfolio/musicpic1.jpeg",
-    header: "Audio/Player, with Sounds API",
-    subheader: "https://github.com/kevin-soria/MusicPlayer",
-    content: "A music player, inspired by Spotify, allowing users to play, pause, audio clips uploaded from the REST Api as desired. Integrating the Sounds API. The app uses fetch, and manupluation of the DOM via ReactDOM. Plans to scale by adding features such as shuffle, slider timeline, repeat mode , and volume control.",
-    extraInfo: ["React", "Fetch API", "Dom Manipulation", "Javascript"]
-  },
-  {
-    imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "More Projects...",
-    subheader: "https://github.com/kevin-soria/",
-    content: "More Projects I've Done, and the technologies I Used!",
-    extraInfo: ["Yankeekick.com: Wordpress", "Landing Page: React", "Random Card Generator: Vanilla JS", "Mobile Business Card: Dart/Flutter", "Flutter : Mobile Xyloyphone", "Flutter: Sneaker Shuffle Mobile App", "Excuse Generator: HTML/CSS", "Validation Form:HTML", "Simple Counter: Vanilla JS", "Conditional Profile Card Generator: Js", "Card Sort: JS with Algorithms", "IG Clone: Bootstrap", "Tic Tac Toe Game: JS", "Traffic Light: Boostrap"]
-  }
+  # {
+  #   imageFileName: "portfolio/musicpic1.jpeg",
+  #   imageFileNameDetail: "portfolio/musicpic1.jpeg",
+  #   header: "Audio/Player, with Sounds API",
+  #   subheader: "https://github.com/kevin-soria/MusicPlayer",
+  #   content: "A music player, inspired by Spotify, allowing users to play, pause, audio clips uploaded from the REST Api as desired. Integrating the Sounds API. The app uses fetch, and manupluation of the DOM via ReactDOM. Plans to scale by adding features such as shuffle, slider timeline, repeat mode , and volume control.",
+  #   extraInfo: ["React", "Fetch API", "Dom Manipulation", "Javascript"]
+  # },
+  # {
+  #   imageFileName: "portfolio/06-thumbnail.jpg",
+  #   imageFileNameDetail: "portfolio/06-full.jpg",
+  #   header: "More Projects...",
+  #   subheader: "https://github.com/kevin-soria/",
+  #   content: "More Projects I've Done, and the technologies I Used!",
+  #   extraInfo: ["Yankeekick.com: Wordpress", "Landing Page: React", "Random Card Generator: Vanilla JS", "Mobile Business Card: Dart/Flutter", "Flutter : Mobile Xyloyphone", "Flutter: Sneaker Shuffle Mobile App", "Excuse Generator: HTML/CSS", "Validation Form:HTML", "Simple Counter: Vanilla JS", "Conditional Profile Card Generator: Js", "Card Sort: JS with Algorithms", "IG Clone: Bootstrap", "Tic Tac Toe Game: JS", "Traffic Light: Boostrap"]
+  # }
 ]
 ---
 <!-- ---

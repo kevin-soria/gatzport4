@@ -24,8 +24,8 @@ module.exports = {
         background_color: "#ffffff",
         theme_color: "#3db330",
         display: "minimal-ui",
-        // icon: "content/assets/gatsby-icon.png",
-        icon: "content/assets/images/logo1.png",
+        icon: "content/assets/gatsby-icon.png",
+        // icon: "content/assets/images/logo1.png",
       },
     },
     "gatsby-transformer-remark",
@@ -47,6 +47,13 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-transformer-sharp",
     "gatsby-plugin-sharp",
+    {
+      resolve: `gatsby-transformer-sharp`,
+      options: {
+        // The option defaults to true
+        checkSupportedExtensions: false,
+      },
+    },
     "gatsby-plugin-offline",
     {
       resolve: "gatsby-plugin-sass",
